@@ -4,6 +4,7 @@ public class N11ContainerWithMostWater {
     public static <integer> void main(String[] args) {
         // write your code here
         int [] arrayTest = {1,8,6,2,5,4,8,3,7};
+
         int  output = maxArea2(arrayTest);
         System.out.println(output);
     }
