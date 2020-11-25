@@ -1,10 +1,6 @@
-package Easy;
+package Easy.N7ReverseInteger;
 
-public class N7ReverseInteger {
-    public static void main(String[] args) {
-        int inputInt =123456789;
-        System.out.println(reverse(inputInt));
-    }
+public class Solution {
     public static int reverse(int x) {
         int end = 0  ;
         int i = 0;
