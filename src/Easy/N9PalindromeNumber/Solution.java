@@ -1,6 +1,6 @@
-package Easy;
+package Easy.N9PalindromeNumber;
 
-public class N9PalindromeNumber {
+public class Solution {
     public boolean isPalindrome(int x) {
         int out =0;
         int input = x;
