@@ -1,8 +1,8 @@
 package Easy.N771JewelsAndStones;
 
-import java.util.HashMap;
+
 import java.util.HashSet;
-import java.util.Map;
+
 import java.util.Set;
 
 public class Solution3 {
@@ -10,7 +10,6 @@ public class Solution3 {
         char [] Array_J= J.toCharArray();
         char [] Array_S =S.toCharArray();
         Set setJ= new HashSet();
-        Map mapS= new HashMap();
         int n =0;
         int n1=Array_J.length;
         int n2=Array_S.length;

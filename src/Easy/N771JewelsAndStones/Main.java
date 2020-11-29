@@ -1,6 +1,6 @@
 package Easy.N771JewelsAndStones;
 
-import Easy.N771JewelsAndStones.Solution;
+
 
 public class Main {
     public static void main(String[] args) {
