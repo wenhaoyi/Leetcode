@@ -1,7 +1,4 @@
-package Easy.N11ContainerWithMostWater;
-
-import Easy.N11ContainerWithMostWater.Solution;
-import Easy.N11ContainerWithMostWater.Solution2;
+package Middle.N11ContainerWithMostWater;
 
 public class Main {
     public static void main(String[] args) {

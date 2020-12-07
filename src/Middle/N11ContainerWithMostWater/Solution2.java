@@ -1,4 +1,4 @@
-package Easy.N11ContainerWithMostWater;
+package Middle.N11ContainerWithMostWater;
 
 public class Solution2 {
     public int maxArea(int[] height) {
