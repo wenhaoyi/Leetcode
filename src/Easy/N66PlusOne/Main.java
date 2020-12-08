@@ -5,8 +5,8 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] input = {1,9,9};
-        Solution solution = new Solution();
+        int[] input = {9,9};
+        Solution2 solution = new Solution2();
         int[] output = solution.plusOne(input);
         System.out.println(Arrays.toString(output));
     }
