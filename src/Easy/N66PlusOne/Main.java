@@ -1,0 +1,13 @@
+package Easy.N66PlusOne;
+
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+        int[] input = {1,9,9};
+        Solution solution = new Solution();
+        int[] output = solution.plusOne(input);
+        System.out.println(Arrays.toString(output));
+    }
+}
