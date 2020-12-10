@@ -7,4 +7,5 @@ public class Main {
         int output = solution.maxProfit(input);
         System.out.println(output);
     }
+
 }
